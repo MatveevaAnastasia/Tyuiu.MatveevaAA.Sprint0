@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36429.23 d17.14
+VisualStudioVersion = 17.14.36429.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MatveevaAA.Sprint0.Task0.V0", "Tyuiu.MatveevaAA.Sprint0.Task0.V0\Tyuiu.MatveevaAA.Sprint0.Task0.V0.csproj", "{7FBE4740-64AC-4A8C-A167-09E0F46F791B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{55C07904-BEA9-4F3A-A466-0F7522B8F3D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MatveevaAA.Sprint0.Task1.V0", "Tyuiu.MatveevaAA.Sprint0.Task1.V0\Tyuiu.MatveevaAA.Sprint0.Task1.V0.csproj", "{27AADBD8-09E3-43EF-81A7-5462F5E8199C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{7FBE4740-64AC-4A8C-A167-09E0F46F791B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FBE4740-64AC-4A8C-A167-09E0F46F791B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FBE4740-64AC-4A8C-A167-09E0F46F791B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27AADBD8-09E3-43EF-81A7-5462F5E8199C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27AADBD8-09E3-43EF-81A7-5462F5E8199C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27AADBD8-09E3-43EF-81A7-5462F5E8199C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27AADBD8-09E3-43EF-81A7-5462F5E8199C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7FBE4740-64AC-4A8C-A167-09E0F46F791B} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{27AADBD8-09E3-43EF-81A7-5462F5E8199C} = {55C07904-BEA9-4F3A-A466-0F7522B8F3D4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2D7973D5-5B5E-4E1C-A716-FB54163D1DA6}
